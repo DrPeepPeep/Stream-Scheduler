@@ -1,0 +1,28 @@
+C:\Users\DrPeepPeep\source\repos\StreamSchedule\bin\Debug\net8.0\StreamSchedule.exe
+C:\Users\DrPeepPeep\source\repos\StreamSchedule\bin\Debug\net8.0\StreamSchedule.deps.json
+C:\Users\DrPeepPeep\source\repos\StreamSchedule\bin\Debug\net8.0\StreamSchedule.runtimeconfig.json
+C:\Users\DrPeepPeep\source\repos\StreamSchedule\bin\Debug\net8.0\StreamSchedule.dll
+C:\Users\DrPeepPeep\source\repos\StreamSchedule\bin\Debug\net8.0\StreamSchedule.pdb
+C:\Users\DrPeepPeep\source\repos\StreamSchedule\obj\Debug\net8.0\StreamSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrPeepPeep\source\repos\StreamSchedule\obj\Debug\net8.0\StreamSchedule.AssemblyInfoInputs.cache
+C:\Users\DrPeepPeep\source\repos\StreamSchedule\obj\Debug\net8.0\StreamSchedule.AssemblyInfo.cs
+C:\Users\DrPeepPeep\source\repos\StreamSchedule\obj\Debug\net8.0\StreamSchedule.csproj.CoreCompileInputs.cache
+C:\Users\DrPeepPeep\source\repos\StreamSchedule\obj\Debug\net8.0\StreamSchedule.dll
+C:\Users\DrPeepPeep\source\repos\StreamSchedule\obj\Debug\net8.0\refint\StreamSchedule.dll
+C:\Users\DrPeepPeep\source\repos\StreamSchedule\obj\Debug\net8.0\StreamSchedule.pdb
+C:\Users\DrPeepPeep\source\repos\StreamSchedule\obj\Debug\net8.0\StreamSchedule.genruntimeconfig.cache
+C:\Users\DrPeepPeep\source\repos\StreamSchedule\obj\Debug\net8.0\ref\StreamSchedule.dll
+C:\Users\DrPeepPeep\source\repos\StreamSchedule - Copy\bin\Debug\net8.0\StreamSchedule.exe
+C:\Users\DrPeepPeep\source\repos\StreamSchedule - Copy\bin\Debug\net8.0\StreamSchedule.deps.json
+C:\Users\DrPeepPeep\source\repos\StreamSchedule - Copy\bin\Debug\net8.0\StreamSchedule.runtimeconfig.json
+C:\Users\DrPeepPeep\source\repos\StreamSchedule - Copy\bin\Debug\net8.0\StreamSchedule.dll
+C:\Users\DrPeepPeep\source\repos\StreamSchedule - Copy\bin\Debug\net8.0\StreamSchedule.pdb
+C:\Users\DrPeepPeep\source\repos\StreamSchedule - Copy\obj\Debug\net8.0\StreamSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrPeepPeep\source\repos\StreamSchedule - Copy\obj\Debug\net8.0\StreamSchedule.AssemblyInfoInputs.cache
+C:\Users\DrPeepPeep\source\repos\StreamSchedule - Copy\obj\Debug\net8.0\StreamSchedule.AssemblyInfo.cs
+C:\Users\DrPeepPeep\source\repos\StreamSchedule - Copy\obj\Debug\net8.0\StreamSchedule.csproj.CoreCompileInputs.cache
+C:\Users\DrPeepPeep\source\repos\StreamSchedule - Copy\obj\Debug\net8.0\StreamSchedule.dll
+C:\Users\DrPeepPeep\source\repos\StreamSchedule - Copy\obj\Debug\net8.0\refint\StreamSchedule.dll
+C:\Users\DrPeepPeep\source\repos\StreamSchedule - Copy\obj\Debug\net8.0\StreamSchedule.pdb
+C:\Users\DrPeepPeep\source\repos\StreamSchedule - Copy\obj\Debug\net8.0\StreamSchedule.genruntimeconfig.cache
+C:\Users\DrPeepPeep\source\repos\StreamSchedule - Copy\obj\Debug\net8.0\ref\StreamSchedule.dll
