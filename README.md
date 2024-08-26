@@ -1,11 +1,10 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G612DOPI)
 
 ----------------------------------------------
-STREAMSCHEDULER
 STREAMSCHEDULER is a console application written in C# that helps you manage and schedule your streaming times throughout the week. It allows users to input, update, and delete stream times for each day of the week, providing a simple way to organize your streaming schedule.
 
-----------------------------------------------
 FEATURES
+----------------------------------------------
 Weekly Schedule Management: Schedule stream times for each day of the week.
 File-based Storage: Saves schedule data in text files for each day within a dedicated folder.
 Input Flexibility: Allows for entering stream times, skipping days, or clearing data for specified days.
@@ -13,21 +12,18 @@ Time Validation: Ensures that entered times are in the correct 24-hour or 12-Hou
 Bulk Deletion: Provides the option to delete schedule data for a specific number of consecutive days.
 
 
-----------------------------------------------
 GETTING STARTED
-
+----------------------------------------------
 Prerequisites
 
 .NET SDK installed (version 6.0 or later recommended).
 
-----------------------------------------------
+
 USAGE
-
-
+----------------------------------------------
 When prompted, enter the stream time for each day of the week in 24-hour or 12-Hour clock format (e.g., 14:00 for 2 PM or 2:00 PM).
 You can type n to clear the stream time for a day, s to skip editing a day, or d to delete the content for the current day and the subsequent days.
 Follow the prompts to specify the number of days to delete if you choose the d option.
-
 
 
 Example:
@@ -50,8 +46,6 @@ Deleted content for Thursday.
 OBS Quick Set-up Lua Script 
 ----------------------------------------------
 
-
-OBS INTEGRATION
 Lua Script for OBS Studio
 The setup includes a Lua script for OBS Studio located in the scripts folder. The script is named "Week Setup OBS QUICK INSTALL.lua". This script automates the process of setting up scenes for each day of the week in OBS Studio.
 
@@ -87,7 +81,9 @@ Check your OBS scene to ensure that text sources for each day of the week have b
 ----------------------------------------------
 
 AUTHOR
-This project is maintained by @DrPeepPeep.
 ----------------------------------------------
+This project is maintained by @DrPeepPeep.
+
 LICENSE
+----------------------------------------------
 This project is licensed under the MIT License - see the LICENSE file for details.
