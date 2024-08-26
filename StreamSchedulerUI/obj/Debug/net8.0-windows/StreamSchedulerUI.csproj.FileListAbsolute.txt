@@ -1,0 +1,17 @@
+C:\Users\DrPeepPeep\source\repos\StreamSchedulerUI\obj\Debug\net8.0-windows\StreamSchedulerUI.Form1.resources
+C:\Users\DrPeepPeep\source\repos\StreamSchedulerUI\obj\Debug\net8.0-windows\StreamSchedulerUI.Properties.Resources.resources
+C:\Users\DrPeepPeep\source\repos\StreamSchedulerUI\obj\Debug\net8.0-windows\StreamSchedulerUI.csproj.GenerateResource.cache
+C:\Users\DrPeepPeep\source\repos\StreamSchedulerUI\obj\Debug\net8.0-windows\StreamSchedulerUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrPeepPeep\source\repos\StreamSchedulerUI\obj\Debug\net8.0-windows\StreamSchedulerUI.AssemblyInfoInputs.cache
+C:\Users\DrPeepPeep\source\repos\StreamSchedulerUI\obj\Debug\net8.0-windows\StreamSchedulerUI.AssemblyInfo.cs
+C:\Users\DrPeepPeep\source\repos\StreamSchedulerUI\obj\Debug\net8.0-windows\StreamSchedulerUI.csproj.CoreCompileInputs.cache
+C:\Users\DrPeepPeep\source\repos\StreamSchedulerUI\bin\Debug\net8.0-windows\StreamSchedulerUI.exe
+C:\Users\DrPeepPeep\source\repos\StreamSchedulerUI\bin\Debug\net8.0-windows\StreamSchedulerUI.deps.json
+C:\Users\DrPeepPeep\source\repos\StreamSchedulerUI\bin\Debug\net8.0-windows\StreamSchedulerUI.runtimeconfig.json
+C:\Users\DrPeepPeep\source\repos\StreamSchedulerUI\bin\Debug\net8.0-windows\StreamSchedulerUI.dll
+C:\Users\DrPeepPeep\source\repos\StreamSchedulerUI\bin\Debug\net8.0-windows\StreamSchedulerUI.pdb
+C:\Users\DrPeepPeep\source\repos\StreamSchedulerUI\obj\Debug\net8.0-windows\StreamSchedulerUI.dll
+C:\Users\DrPeepPeep\source\repos\StreamSchedulerUI\obj\Debug\net8.0-windows\refint\StreamSchedulerUI.dll
+C:\Users\DrPeepPeep\source\repos\StreamSchedulerUI\obj\Debug\net8.0-windows\StreamSchedulerUI.pdb
+C:\Users\DrPeepPeep\source\repos\StreamSchedulerUI\obj\Debug\net8.0-windows\StreamSchedulerUI.genruntimeconfig.cache
+C:\Users\DrPeepPeep\source\repos\StreamSchedulerUI\obj\Debug\net8.0-windows\ref\StreamSchedulerUI.dll
