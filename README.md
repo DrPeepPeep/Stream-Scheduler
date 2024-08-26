@@ -1,3 +1,6 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G612DOPI)
+
+----------------------------------------------
 STREAMSCHEDULER
 STREAMSCHEDULER is a console application written in C# that helps you manage and schedule your streaming times throughout the week. It allows users to input, update, and delete stream times for each day of the week, providing a simple way to organize your streaming schedule.
 
