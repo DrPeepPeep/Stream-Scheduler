@@ -47,7 +47,7 @@ Enter the number of subsequent days to delete (including today):
 Deleted content for Wednesday.
 Deleted content for Thursday.
 
-Stream schedule has been updated.
+OBS Quick Set-up Lua Script 
 ----------------------------------------------
 
 
